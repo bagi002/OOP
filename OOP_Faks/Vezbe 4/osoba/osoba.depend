@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1634402718 source:/home/stud/ra67-2022/Desktop/OOP/OOP_Faks/Vezbe 4/osoba/dinstring.cpp
+	"dinstring.hpp"
+
+1634402722 /home/stud/ra67-2022/Desktop/OOP/OOP_Faks/Vezbe 4/osoba/dinstring.hpp
+	<iostream>
+
+1634402728 source:/home/stud/ra67-2022/Desktop/OOP/OOP_Faks/Vezbe 4/osoba/main.cpp
+	"phdstudent.hpp"
+
+1634402740 /home/stud/ra67-2022/Desktop/OOP/OOP_Faks/Vezbe 4/osoba/phdstudent.hpp
+	"student.hpp"
+
+1634402746 /home/stud/ra67-2022/Desktop/OOP/OOP_Faks/Vezbe 4/osoba/student.hpp
+	"osoba.hpp"
+
+1699344313 /home/stud/ra67-2022/Desktop/OOP/OOP_Faks/Vezbe 4/osoba/osoba.hpp
+	"dinstring.hpp"
+	<iostream>
+
