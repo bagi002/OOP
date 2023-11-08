@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1699437866 source:c:\users\user\desktop\oop 1\oop\zadaci\vjezba\main.cpp
+	<iostream>
+	"grac.hpp"
+	"igra.hpp"
+
+1699434666 c:\users\user\desktop\oop 1\oop\zadaci\vjezba\grac.hpp
+
+1699437920 c:\users\user\desktop\oop 1\oop\zadaci\vjezba\igra.hpp
+	"grac.hpp"
+	<cstdlib>
+

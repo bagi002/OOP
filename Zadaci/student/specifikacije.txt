@@ -1,0 +1,24 @@
+Napraviti klasu predmet
+Klasa sadrzi sledeca polja
+naziv predmeta
+status (POLOZEN , NEPOLOZEN)
+predispitne obaveze
+ispitne obaveze
+(ispitne obaveze mogu biti u rasponu od 0 do 30, predispitne od 0 do 70)
+ocjena
+
+implementirati
+Konstruktor sa jednim parametrom obaveznim parametrom kojim se se setuje ime te dva parametra sa podrazumjevanim vrednostima 0 , 0
+metodu  int getPredispitneBodovi
+        int getIspitneBodovi
+        bool polozenePredispitne
+        bool polozeneIspitne // vraca tru ako su predispitne odnosno ispitne obaveze polozene
+        bool racunajOcjenu // vraca true ako je predmet polozen i setuje ocjenu , vraca false ako predmet nije polozen
+        void setPredispitneBodovi
+        void setIspitneBodovi
+        void setNaziv
+
+
+Klasu Student
+
+
